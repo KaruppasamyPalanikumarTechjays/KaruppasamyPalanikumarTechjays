@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaruppasamyPalanikumarTechjays
 - 👀 I’m interested in Mobile and Web Application Development
 - 🌱 I’m currently learning SwiftUI,Android Development,Python Flask and Django
-- 💞️ I’m looking to collaborate on any open source ios projects
+- 💞️ I’m looking to collaborate on any open source ios and python projects
 - 📫 How to reach me karuppasamypalanikumar@gmail.com
 
 <!---
